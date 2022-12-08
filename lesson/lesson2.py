@@ -2,6 +2,7 @@
 
 # инкапсуляция
 
+
 # супер класс
 class Robot:
     brain=True
