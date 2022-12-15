@@ -52,3 +52,6 @@ r='qwertyu'
 amir=Emirlan('Emirlan',0)
 
 print(amir.emirlan)
+
+
+
