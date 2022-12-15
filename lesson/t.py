@@ -44,3 +44,6 @@ l=Human3('kelli',29)
 print(l.name)
 l.name='Amir'
 print(l.name)
+
+
+
